@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "phone-1",
+      "description": "Samsung Phone Display",
+      "imageUrl": "https://picsum.photos/seed/phone1/600/1000",
+      "imageHint": "smartphone device"
+    },
+    {
+      "id": "phone-2",
+      "description": "iPhone Display",
+      "imageUrl": "https://picsum.photos/seed/phone2/600/1000",
+      "imageHint": "mobile phone"
+    },
+    {
+      "id": "buffalo-1",
+      "description": "Healthy Buffalo",
+      "imageUrl": "https://picsum.photos/seed/buffalo1/600/1000",
+      "imageHint": "domestic buffalo"
+    },
+    {
+      "id": "bike-1",
+      "description": "Honda Shine Bike",
+      "imageUrl": "https://picsum.photos/seed/bike1/600/1000",
+      "imageHint": "motorcycle"
+    },
+    {
+      "id": "tractor-1",
+      "description": "Farming Tractor",
+      "imageUrl": "https://picsum.photos/seed/tractor1/600/1000",
+      "imageHint": "tractor farming"
+    },
+    {
+      "id": "property-1",
+      "description": "Plot for sale",
+      "imageUrl": "https://picsum.photos/seed/land1/600/1000",
+      "imageHint": "land property"
+    }
+  ]
+}
